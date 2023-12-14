@@ -1,6 +1,3 @@
-<div style="background-color: #f8d7da; padding: 10px;">
-    Ini adalah teks dengan latar belakang merah muda.
-</div>
 
 # JOBSHEET 1 🐠
 
