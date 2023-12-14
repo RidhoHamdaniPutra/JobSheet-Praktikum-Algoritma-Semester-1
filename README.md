@@ -1,4 +1,3 @@
-
 # JOBSHEET 1 🐠
 
 <p>Job sheet 1 berisi tentang apa itu algoritma, pemrograman, perbedaan coding dan programming, bahasa pemrograman, dan bagaimana cara menginstal IDE (Integreted Development Environment) yang digunakan untuk membuat sebuah program.<p>
@@ -58,4 +57,16 @@
 
 # JOB SHEET 6 🪼
 
-<p>Pada job sheet ini saya mempelajari tentang flow control loop (perulangan), </p>
+<p>Pada job sheet ini saya mempelajari tentang flow control loop (perulangan), yang mana di dalam job sheet ini di pelajari perulangan for, perulangan while, perulangan do while, perulangan bersarang(nested loop). Perulangan atau loop adalah instruksi berulang sehingga kondisi yang diinginkan dapat terpenuhi, loop ini dapat mempermudahkan pemrograman kita karena dengan adanya perulangan ini kita dapat mempersingkat baris program yang kita buat.</p>
+
+<p><b>Perulangan for</b> perulangan ini termasuk kedalam couted loop, karena kita telah mengetahui berapa kali perulangan tersebut akan dilakukan. <b>Perulangan while</b> merupakan perulangan uncounted loop karena kita tidak mengetahui berapa kali perulangan ini akan dilakukan. <b>Perulangan do while</b> sama seperti while tetapi perulangan do while akan melakukan perulangan 1 kali terlebih dahulu pada do dan kemudian akan mengecek kondisi yang ada pada while. <b>Perulangan bersarang</b> ini berisi perulangan di dalam perulangan yang menggunakan variabel sebagai counter.</p>
+
+<p>Didalam job sheet ini juga saya telah mengerjakan latihan yang di dalamnya yang mana disuruh untuk membuat program untuk menampilkan deret bilangan ganjil dan genap, ita bisa menggunakan modulus(%) untuk menentukan apakah bilangan tersebut ganjil atau genap, selanjutnya juga ada disuruh untuk membuat program yang menghasilkan segitiga bintang, pada program ini kita menggunakan perulangan bersarang dengan menggunakan variabel sebagai counternya.</p>
+
+# JOB SHEET 7 🦈
+
+<p>Pada job sheet ini saya mempelajari tentang struktur data yaitu array, array digunakan untuk menyimpan banyak data di dalam program misalnya seperti kita ingin mengisi data nama 10 mahasiswa maka kita memerlukan array dalam mempermudah kita saat mengerjakannya. <b>Array</b> adalah struktur data yang dapat menyimpan banyak data di dalam satu tempat, setiap array ada indeks nya.</p>
+
+<p><b>Variabel array</b>, hampir sama dengan variabel biasa tetapi di samping nama variabel kita tambahkan dengan kurung siku [] untuk menentukan panjang indeks dari array tersebut. Array ini akan menyimpan data sesuai dengan panjang indeks yang kita isi, indeks array dimulai dari 0 hingga seterusnya, misal kita menginputkan panjang array 5 maka indeks array akan dimulai dari 0-4.<b>Array multidimensi</b> dapat dilakukan dengan menambahkan satu lagi kurung siku pada variabel array yang kita buat sehingga tampilannya akan seperti matriks</p>
+
+<p>Selanjutnya ada fungsi fungsi yang digunakan untuk menangani string seperti <b>strcpy()</b> ini digunakan untuk mengcopy string pada variabel pertama ke variabel kedua, <b>strcat</b> fungsi ini digunakan untuk menambahkan string kebelakang misal kita memiliki variabel pertama dengan nama kopi dan variabel kedua dengan nama susu maka kita bisa menggabung kan kedua variabel tersebut dengan strcat(), <b>strlen()</b> fungsi ini digunakan untuk menghitung panjang string yang kita miliki, <b>strcmp()</b> fungsi ini digunakan untuk membandingkan string yang satu dengan string yang lainnya.</p>
