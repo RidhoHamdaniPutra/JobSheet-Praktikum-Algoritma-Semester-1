@@ -81,5 +81,24 @@
 
 # JOB SHEET 9 🧾
 
-<p></p>
+<p>Pada job sheet ini berisi tentang pointer, bagaimana cara megimplementasikan pointer tersebut kedalam program. <b>Pointer</b> adalah sebuah variabel yang dapat menyimpan memori dari suatu objek, setiap variabel yang dibuat dalam program mempunyai alamat memori yang berfungsi untuk menentukan lokasi penyimpanan pada memori.</p>
 
+<P><b>Penggunaan pointer</b> dibuat dengan menggunakan simbol * di depan nama variabel yang telah dibuat. Alamat memori yang kita gunakan untuk referensi pada pointer nantinya akan sama dengan memori dari variabel yang kita pakai. Pointer dapat mengakses isi data pada alamat referensi yang diberikan.</P>
+
+<p>Alamat memori pointer berbeda dengan alamat referensi, alamat memori pointer adalah alamat memori yang digunakan untuk menyimpan pointer, sedangkan alamat referensi adalah alamat yang akan menjadi referensi dari pointer.</p>
+
+# JOB SHEET 10 🧾
+
+<p>Dalam job sheet ini kita mempelajari tentang <b>enum</b> dan <b>struct</b>. <b>Enum</b> adalah tipe data yang berisi sekumpulan konstanta, enum ini masuk kedalam tipe data bentukan yang dapat kita tentukan sendiri lama tipe datanya. <b>Struct</b> adalah sekumpulan data dari banyak variabel dengan tipe data yang beragam.</p>
+
+<p>Membuat tipe data boolean dari enum dapat dilakukan dengan enum boolean { false, true }; karena enum dapat memberikan efisiensi dalam penggunaan memori, variabel enum ini hanya akan mengambil satu nilai dari konstanta yang ada.</p>
+
+<p>Struct dapat digunakan dengan membuat kata kunci struct dan kemudian diikuti dengan nama struct kemudian kita isi variabel ke dalam <b>struct</b> tersebut, struct juga dapat digunakan dengan kata kunci <b>typedef struct</b> dan kita dapat menambahkan kata kunci baru di akhir typedef struct ini untuk menjadi tipe data baru. Selanjutnya ada struct bersarang kita dapat menambahkan struct di dalam struct dan ketika memanggil struct yang telah kita buat tadi dengan memanggil variabel struct tersebut dan diberi titik baru kita pilih variabel mana dari dalam struct itu yang akan kita panggil.</p>
+
+# JOB SHEET 11 🧾
+
+<p>Dalam job sheet ini kita mempelajari tentang bagaimana cara bekerjanya file handling dalam program C. Tentang bagaimana membaca file dengan C, bagaimana menulis dalam file dengan C. Dengan adanya file handling ini kita dapat menyimpan semua data yang tersimpan di dalam variabel.</p>
+
+<p><b>Membaca file dengan C</b> dapat dilakukan dengan membuat file teks editor misalnya .txt kemudian fungsi untuk membuka atau membaca file di C yaitu fopen("filepath", "r"), selain dengan menggunakan r untuk membaca, kita juga dapat menggunakan rb untuk baca di binary, w untuk tulis,wb untuk tulis di binary,dan a untuk tambahkan banyak lainnya.</p>
+
+<p><b>Menulis dalam file dengan C</b> dilakukan dengan menggunakan fungsi fputs('teks',fptr); dengan keterangan teks adalah teks yang ingin ditambahkan dan fptr adalah pointer file. Jika akan membuka file yang ingin ditulis menggunakan mode w atau w+a, dan jika ingin menambahkan banyak teks kita dapat menggabungkannya dengan perulangan for agar kita dapat menambahkan banyak text sekaligus.</p>
