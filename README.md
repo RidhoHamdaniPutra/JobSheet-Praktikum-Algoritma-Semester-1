@@ -1,3 +1,7 @@
+<div style="background-color: #f8d7da; padding: 10px;">
+    Ini adalah teks dengan latar belakang merah muda.
+</div>
+
 # JOBSHEET 1 🐠
 
 <p>Job sheet 1 berisi tentang apa itu algoritma, pemrograman, perbedaan coding dan programming, bahasa pemrograman, dan bagaimana cara menginstal IDE (Integreted Development Environment) yang digunakan untuk membuat sebuah program.<p>
