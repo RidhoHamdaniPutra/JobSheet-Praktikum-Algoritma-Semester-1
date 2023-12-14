@@ -49,3 +49,13 @@
 <p>Terakhir ada <b>operator birwise</b> yaitu operator yang digunakan untuk mengambil operasi berdasarkan bit dari suatu nilai, operator bitwise ini terdiri dari AND(&), OR(|), XOR(^), NOT(~), left shift dan right shift.</p>
 
 # JOB SHEET 5 🐳
+
+<p>Pada job sheet 5 ini saya mempelajari tentang bagaimana penggunaan flow control decision making dengan menggunakan if, if else, swhitch case, operator tenary, percabangan bersarang(nested).</p>
+
+<p><b>Pernyataan if</b> percabangan if ini merupakan sebuah percabangan yang memiliki satu blok pilihan saat kondisi tersebut benar. Blok program berisi sekumpulan ekpresi dan stetement untuk dikerjakan olah komputer.<b>Pernyataan if else</b> percabangan ini memiliki dua blok pilihan yang pertama itu untuk kondisi yang benar dan yang kedua berisi kondisi yang salah. <b>Pernyataan if else if</b> pernyataan ini merupakan pernyataan yang memiliki lebih dari dua blok pilihan.</p>
+
+<p><b>Pernyataan shitch case</b> percabangan ini adalah bentuk percabangan lain yang memiliki blok case sesuai dengan keinginan kita, dan pada setiap case harus diakhiri dengan break agar program tersebut berhenti ketika case tersebut telah terpenuhi. <b>Percabangan operator ternary</b> percabangan ini menggunakan operator tenary atau biasa di kenal dengan operator kondisi. <b>Percabangan bersarang</b> semua blok sebelunya di buat dalam bentuk percabangan atau di sebut dengan nested.</p>
+
+# JOB SHEET 6 🪼
+
+<p>Pada job sheet ini saya mempelajari tentang flow control loop (perulangan), </p>
