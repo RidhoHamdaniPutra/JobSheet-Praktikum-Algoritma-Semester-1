@@ -33,6 +33,18 @@
 
 <p><b>Konverensi tipe data</b> atau casting adalah mengubah tipe data sebelumnya menjadi sebuah tipe data yang baru, cara mengubahnya yaitu dengan menuliskan nama tipe data di depan nilai atau variabel yang dibuat.</p>
 
-# JOB SHEET 4
+# JOB SHEET 4 🐡
 
-<p></p>
+<p>Pada job sheet 4 ini saya mempelajari tentang berbagai macam operator yang digunakan di dalam bahasa C dan bagaimana cara penggunaan nya dalam IDE. Operator ini digunakan untuk melakukan sebuah operasi dalam program C seperti program perhitungan matematika dan lainnya. Ada operator aritmatika, operator penugasan, operator pembanding, operator logika, dan operator bitwise.</p>
+
+<p><b>Operator aritmatika</b> yaitu adalah operator yang digunakan dalam operasi matematika seperti penjumlahan(+), pengurangan(-), perkalian(*), pembagian(/), dan sisa bagi(%) </p>
+
+<p><b>Operator penugasan</b>ini merupakan operator yang digunakan untuk memberikan tugas kepada variabel, operator ini terdiri dari pengisian nilai(=), pengisian dan penambahan(+=), pengisian dan pengurangan(-=), pengisian dan pembagian(/=), pengisian dan sisa bagi(%=), pengisian dan shift left, pengisian shift right, pengisian dan bitwise AND, pengisian dan bitwise OR, pengisian dan bitwise XOR.</p>
+
+<p><b>Operator pembanding</b> operator ini digunakan untuk membandingkan dua buah nilai, operator ini juga dikenal dengan operator relasi, operator ini terdiri dari lebih besar (>), lebih kecil(<), sama dengan(==), tidak sama dengan(!=), lebih besar sama dengan(>=), lebih kecil sama dengan(<=).</p>
+
+<p><b>Operator logika</b> digunakan untuk membuat operasi logika yang terdiri dari logika AND(&&), logika OR(||), dan negasi(!).</p>
+
+<p>Terakhir ada <b>operator birwise</b> yaitu operator yang digunakan untuk mengambil operasi berdasarkan bit dari suatu nilai, operator bitwise ini terdiri dari AND(&), OR(|), XOR(^), NOT(~), left shift dan right shift.</p>
+
+# JOB SHEET 5 🐳
