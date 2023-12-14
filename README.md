@@ -20,3 +20,19 @@
 
 <p><b>Proses Input dan Output</b> dalam menampilkan output ada 2 fungsi yang dapat kita gunakan, yaitu <b>Fungsi printf()</b> yaitu fungsi yang digunakan untuk menampilkan output ke layar komputer, dalam fungsi printf() kita menggunakan simbol format specifier. Kedua ada <b>Fungsi puts()</b> sama dengan fungsi printf(), fungsi puts() juga digunakan untuk menampilkan output bedanya pada fungsi puts() kita tidak perlu menampahkan format specifier. Fungsi puts() akan selalu membuat baris baru setelah fungsi puts() dijalankan. Untuk mengambil input dapat di gunakan beberapa fungsi yaitu, 
 <b>Fungsi scanf()</b> fungsi ini digunakan untuk mengambil inputan user melalui keyboard sama dengan printf() fungsi scanf() juga memelurkan format. Kedua <b>Fungsi gets()</b> untuk mengambil inputan dalam satu baris, fungsi ini tidak memerlukan format. Ketiga ada <b>Fungsi fgets()</b> fungsi ini juga dapat mengambil inputan user melalui keyboard tetapi fungsi ini dapat menentukan ukuran buffer dari inputan.</p>
+
+# JOB SHEET 3 🐟
+
+<p>Pada job sheet 3 ini saya mempelajari tentang apa itu Variabel, konstanta, tipe data, konversi tipe data, dan beberapa aturan  penulisannya di dalam bahasa pemrograman C dengan menggunakan IDE. </p>
+
+<p><b>Variabel</b> adalah suatu tempat di simpannya sebuah nilai yang diinputkan oleh user melalui keyboard, didalam penulisan variabel nama variabel tidak boleh diawali dengan simbol atau angka, tidak boleh menggunakan kata yang sudah ada pada bahasa C seperti if, int, selanjutnya variabel dalan bahasa C ini bersifat case sennsitive maka kecil besar nya huruf variabel akan dianggap sebagai variabel yang berbeda, dan jika nama variabel ingin menggunakan dua kata dapat di gunakan "_" untuk menggabungkan dua kalimat tersebut.</p>
+
+<p><b>Konstanta</b> yaitu adalah sebuah variabel yang nilainya tidak dapat diubah dan sudah menjadi sebuah tetapan, penggunaan konstanta dapat menggunakan "#define" atau menggunakan "const", penggunakan "#define" tidak memerlukan tipe data dan terletak diluar fungsi main, sedangkan "const" memerlukan tipe data dan terletak di dalam fungsi.</p>
+
+<p><b>Tipe data</b> yaitu mengelompokkan semua data yang sama agar program dapat berjalan semestinya, ada 8 tipe data tetapi yang sering digunakan itu ada char, integer, float, dan array, selanjutnya ada tipe data void yang menyatakan tidak adanya data.</p>
+
+<p><b>Konverensi tipe data</b> atau casting adalah mengubah tipe data sebelumnya menjadi sebuah tipe data yang baru, cara mengubahnya yaitu dengan menuliskan nama tipe data di depan nilai atau variabel yang dibuat.</p>
+
+# JOB SHEET 4
+
+<p></p>
