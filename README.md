@@ -79,5 +79,7 @@
 
 <p>selanjutnya ada <b>Variabel global dan lokal</b>, variavel global adalah variabel yang dapat diakses oleh semua fungsi dan di letakkan di luar semua fungsi biasanya berada di bawah library, sedangkan variabel lokal adalah variabel yang hanya dapat di akses oleh fungsi yang memiliki variabel tersebut di dalamnya.</p>
 
+# JOB SHEET 9 🧾
 
+<p></p>
 
