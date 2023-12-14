@@ -1,0 +1,10 @@
+Mahasiswa ke-1
+Nama 		: Ridho
+NIM 		: 23343052
+Jurusan 	: Teknik Elektronika
+Program Studi 	: Informatika
+Mahasiswa ke-2
+Nama 		: Hamdani
+NIM 		: 23343053
+Jurusan 	: Teknik Elektronika
+Program Studi 	: Informatika
